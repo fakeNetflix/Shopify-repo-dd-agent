@@ -28,7 +28,7 @@ kazoo==1.3.1
 
 # checks.d/ssh_check.py
 # Require a compiler because pycrypto is a dep
-paramiko==1.15.2
+paramiko==2.10.1
 
 # checks.d/pgbouncer.py
 # Require libpq
